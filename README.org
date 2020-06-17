@@ -1,0 +1,5 @@
+* 训练
+  + cd src_code/
+  + bash train.sh
+* 预测
+  + bash test.sh
